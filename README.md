@@ -3,8 +3,8 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me : skpatel@bmj.com
-- 😄 Pronouns: Sandeep Kumar Patel
+- 📫 How to reach me : **skpatel@bmj.com**
+- 😄 Pronouns: **Sandeep Kumar Patel**
 - ⚡ Fun fact: ...
 
 <!---
