@@ -1,13 +1,37 @@
+# 👋 Hi there, I’m Sandeep!
 
-- 👋 Hi, I’m @Sandeep-bmj 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me : **skpatel@bmj.com**
-- 😄 Pronouns: **Sandeep Kumar Patel**
-- ⚡ Fun fact: ...
+I'm a **SysAdmin and DevOps Engineer at BMJ Group**, where I help design, automate, and maintain robust infrastructure and CI/CD pipelines to support a wide range of teams and projects.
 
-<!---
-Sandeep-bmj/Sandeep-bmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+- Cloud infrastructure (AWS, GCP)
+- DevOps, automation, and CI/CD
+- Containerization (Docker, Kubernetes)
+- WordPress optimization & deployment
+- Observability and monitoring tools
+- Security best practices for system architecture
+
+## 🌱 Currently Learning
+- GitHub Actions workflows (advanced use cases)
+- Kubernetes & Helm charts
+- Terraform for infrastructure as code (IaC)
+
+## 💞️ Open to Collaborate On
+- Streamlining CI/CD pipelines using GitHub Actions or GitLab CI
+- Dockerizing and optimizing WordPress environments
+- Automating infrastructure deployments
+- Developer experience improvements in system operations
+
+## 📫 Get in Touch
+📧 **skpatel@bmj.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/sandeepkumarp01) *(optional: include if available)*  
+🐙 [GitHub](https://github.com/Sandeep-bmj)
+
+## 😄 Pronouns
+**Sandeep Kumar Patel** (he/him)
+
+## ⚡ Fun Fact
+I’ve built and tested local WordPress environments using Docker across multiple sites — and they all worked like a charm! 😎
+
+---
+
+> “Automation doesn’t replace people — it gives them superpowers.” 🚀
