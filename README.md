@@ -23,7 +23,7 @@ I'm a **SysAdmin and DevOps Engineer at BMJ Group**, where I help design, automa
 
 ## 📫 Get in Touch
 📧 **skpatel@bmj.com**  
-💼 [LinkedIn] (https://www.linkedin.com/in/sandeep-kumar-patel-95774b18b/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-patel-95774b18b/)  
 🐙 [GitHub](https://github.com/Sandeep-bmj)
 
 ## 😄 Pronouns
