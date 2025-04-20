@@ -23,11 +23,11 @@ I'm a **SysAdmin and DevOps Engineer at BMJ Group**, where I help design, automa
 
 ## 📫 Get in Touch
 📧 **skpatel@bmj.com**  
-💼 [LinkedIn]([https://www.linkedin.com/in/sandeepkumarp01](https://www.linkedin.com/in/sandeep-kumar-patel-95774b18b/)) *(optional: include if available)*  
+💼 [LinkedIn]([https://www.linkedin.com/in/sandeepkumarp01](https://www.linkedin.com/in/sandeep-kumar-patel-95774b18b/)  
 🐙 [GitHub](https://github.com/Sandeep-bmj)
 
 ## 😄 Pronouns
-**Sandeep Kumar Patel** (he/him)
+**Sandeep Kumar Patel** (he)
 
 ## ⚡ Fun Fact
 I’ve built and tested local WordPress environments using Docker across multiple sites — and they all worked like a charm! 😎
