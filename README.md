@@ -1,6 +1,8 @@
 # 👋 Hi there, I’m Sandeep!
 
 I'm a **SysAdmin and DevOps Engineer at BMJ Group**, where I help design, automate, and maintain robust infrastructure and CI/CD pipelines to support a wide range of teams and projects.
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPONAME)
+
 
 ## 👀 Interests
 - Cloud infrastructure (AWS, GCP)
